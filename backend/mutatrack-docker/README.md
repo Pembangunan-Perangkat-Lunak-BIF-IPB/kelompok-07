@@ -25,8 +25,8 @@ Yang perlu dipasang hanya tiga hal. Pertama Docker Desktop (Windows 10/11 dengan
 ### 1. Ambil proyek
 
 ```
-git clone <URL-REPOSITORI>
-cd <NAMA-FOLDER>
+git clone https://github.com/Pembangunan-Perangkat-Lunak-BIF-IPB/kelompok-07.git
+cd kelompok-07/backend/mutatrack-docker
 ```
 
 Buka folder itu di VS Code (File > Open Folder), lalu buka terminal bawaan dengan Ctrl+`.
