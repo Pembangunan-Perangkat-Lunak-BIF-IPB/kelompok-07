@@ -1,0 +1,8 @@
+{
+  "name": "MutaTrack - DNA Variant Calling Platform",
+  "description": "Bioinformatics platform for DNA variant calling analysis, FASTQ QC, fastp trimming, BWA alignment, BCFtools calling, and SnpEff functional annotation.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
